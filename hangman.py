@@ -14,7 +14,7 @@ print(random_word)
 
 chars_in_random_word = len(random_word)
 
-# create player board
+# create start conditions
 
 player_lives = 7
 
